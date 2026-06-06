@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Junction",
+  "description": "Premium flagship fitness destination website with dynamic BMI calculator, modular design, premium packages, and glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
